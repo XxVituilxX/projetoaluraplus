@@ -157,13 +157,13 @@ body {
     }
     .imagem__secundario {
         width: 100%;
-        margin: 20%;
+        margin: 50%;
         
     
     }
     .container {
         display: flex;
         justify-content: center;
-        height: 50vh;
+        height: 60vh;
     }
 }
