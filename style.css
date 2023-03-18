@@ -157,13 +157,25 @@ body {
     }
     .imagem__secundario {
         width: 100%;
-        margin: 50%;
-        
-    
+        margin: 2%;    
     }
     .container {
         display: flex;
+        flex-direction: column;
         justify-content: center;
-        height: 70vh;
+        height: 70vh;        
     }
+    .secundario {
+        align-items: center;
+        margin: 2%;
+        text-align: center;
+        
+    }
+    .rodape {
+        background-color: #7b7d80;
+        margin: auto;
+        background: linear-gradient(black,#7b7d80); 
+
+    }
+
 }
